@@ -1,5 +1,5 @@
 server:
   port: 8081
 some:
-  value: Valor del producto
+  value: Soy yo el test
   
